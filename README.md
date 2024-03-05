@@ -13,7 +13,7 @@
 
 
 
-[!(https://activity-graph.herokuapp.com/graph?username=najororabiaza&&theme=xcode)](https://github.com/najororabiaza)
+[![Najoro's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=najororabiaza&&theme=xcode)](https://github.com/najororabiaza)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najororabiaza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="najororabiaza" /></p>
 
