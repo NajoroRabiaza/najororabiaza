@@ -4,11 +4,11 @@
 <br>
 
 
-- 🔭 I’m currently Studying at **HEI**
+- 🔭 I’m currently Studying at **G**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📫 How to reach me **hei.najoro.2@gmail.com**
+- 📫 How to reach me **jorojanah@gmail.com**
 
 - ⚡ Fun fact **I am not Funny**
 
