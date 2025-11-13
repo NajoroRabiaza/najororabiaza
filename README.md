@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Najoro Rabiaza</h1>
+<h1 align="center">Hi 👋, I'm Amboara Najoro</h1>
 <h3 align="center">A passionate Student IT from Antananarivo</h3>
 
 <br>
