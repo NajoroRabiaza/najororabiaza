@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **machine Learning**
 
-- 📫 How to reach me **mickael.rajaonarilala@esti.mg**
+- 📫 How to reach me **jorojanah@gmail.com**
 
 - ⚡ Fun fact **I am not Funny**
 
