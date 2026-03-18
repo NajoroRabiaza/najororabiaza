@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 📫 How to reach me **mickael.rajaonarilala@esti.mg**
+- 📫 How to reach me **amboaranajororajaonarilala@gmail.com**
 
 - ⚡ Fun fact **I am not Funny**
 
