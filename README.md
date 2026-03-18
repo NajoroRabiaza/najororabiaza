@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Studying at **ESTI**
 
-- 🌱 I’m currently learning **machine Learning**
+- 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **mickael.rajaonarilala@esti.mg**
 
