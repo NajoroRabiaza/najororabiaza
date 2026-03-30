@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amboara Najoro</h1>
-<h3 align="center">A passionate Student IT from Antananarivo</h3>
+<h3 align="center">Passionate IT Student from Antananarivo 🇲🇬</h3>
 
 <br>
 
+- 🔭 I’m currently studying at **ESTI** (École Supérieure des Technologies de l'Information)
 
-- 🔭 I’m currently Studying at **ESTI**
+- 🌱 I’m currently learning **Full-Stack Development & Machine Learning**
 
-- 🌱 I’m currently learning **machine Learning**
+- 💻 I’m interested in **Backend Development, Web Apps & AI**
 
-- 📫 How to reach me **mickael.rajaonarilala@esti.mg**
+- 📫 How to reach me: **amboaranajororajaonarilala@gmail.com**
 
-- ⚡ Fun fact **I am not Funny**
+- ⚡ Fun fact: **I am not funny**
 
 <br>
 
