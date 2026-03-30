@@ -48,10 +48,10 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
-    </td> -->
+    </td>
     <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
