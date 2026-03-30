@@ -140,7 +140,8 @@
 
 ## My GitHub Stats
 
-
+<p><img align="left" src="https://github-readme-stats-pink-one-30.vercel.app/api/top-langs?username=najororabiaza&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="najororabiaza" />
+</p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=najororabiaza&theme=tokyonight&hide_border=false" alt="najororabiaza streak stats" />
