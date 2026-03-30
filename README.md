@@ -31,30 +31,30 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
@@ -89,10 +89,10 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
@@ -111,22 +111,22 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
