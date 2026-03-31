@@ -139,7 +139,7 @@
 <br><br>
 
 
-## My GitHub Stats
+## Then my GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats-pink-one-30.vercel.app/api/top-langs?username=najororabiaza&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="najororabiaza" />
 </p>
@@ -150,5 +150,5 @@
 
 <br><br>
 
-## My GitHub Graph contribution this month
+## And my GitHub Graph contribution this month
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NajoroRabiaza&bg_color=1b2932&color=d3b692&line=72b7c0&point=c5cdd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
