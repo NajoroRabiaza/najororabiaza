@@ -56,6 +56,14 @@
         <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
         <br>MaterialUI
     </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+        <br>SQLite
+    </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+        <br>REST API
+    </td>
     <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
