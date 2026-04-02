@@ -52,6 +52,10 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+        <br>MaterialUI
+    </td>
     <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
@@ -131,6 +135,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+        <br>Java
     </td>
   </tr>
 </table>
