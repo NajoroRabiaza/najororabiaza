@@ -3,13 +3,21 @@
 
 <br>
 
-- 🔭 I’m currently studying at **ESTI** (École Supérieure des Technologies de l'Information)
+- 🔭 I’m currently studying at **ESTI** (École Supérieure des Technologies de l'Information) Madagascar
 
-- 🌱 I’m currently learning **Full-Stack Development & Machine Learning**
+- 🌱 Learning **Full-Stack Development & Machine Learning**
 
-- 💻 I’m interested in **Backend Development, Web Apps & AI**
+- 💻 Building full-stack applications with **React & Node.js**
+
+- ⚙️ Interested in **Backend Development, APIs & DevOps**
 
 - 📫 How to reach me: **amboaranajororajaonarilala@gmail.com**
+
+- 📚 Currently learning **Machine Learning fundamentals**
+
+- 💼 Currently open to : **Freelance opportunities / Remote work / Open-source contributions / Collaborations**
+
+- 💬 So feel free to reach out!
 
 - ⚡ Fun fact: **I am not funny**
 
