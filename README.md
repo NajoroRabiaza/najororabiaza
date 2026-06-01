@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **ESTI** (École Supérieure des Technologies de l'Information) Madagascar
 
-- 🌱 Learning **Full-Stack Development & Machine Learning**
+- 🌱 Learning **Full-Stack deployment & Machine Learning fundamentals**
 
 - 💻 Building full-stack applications with **React & Node.js**
 
@@ -13,9 +13,7 @@
 
 - 📫 How to reach me: **amboaranajororajaonarilala@gmail.com**
 
-- 📚 Currently learning **Machine Learning fundamentals**
-
-- 💼 Currently open to : **Freelance opportunities / Remote work / Open-source contributions / Collaborations**
+- 💼 And currently open to : **Freelance opportunities / Remote work / Open-source contributions / Collaborations**
 
 - 💬 So feel free to reach out!
 
