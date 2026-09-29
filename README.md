@@ -28,6 +28,12 @@
 
 <br>
 
+## Let's play a little game if you know some kata
+![Codewars](https://github.r2v.ch/codewars?user=JoroJanah&stroke=%23BB432C)
+
+<br>
+
+
 # My Favorite Language, Tools and Technologies right now
 
 <div style="display: flex; align-items: flex-start; align: center">
