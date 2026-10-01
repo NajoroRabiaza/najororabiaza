@@ -28,7 +28,7 @@
 
 <br>
 
-## Let's play a little game if you know some kata
+## Let's play a little game if you know some kata : [![Here](https://codewars-stats-ignacio-cuadra.vercel.app/?username=TonPseudo&theme=dark)](https://www.codewars.com/users/JoroJanah)
 ![Codewars](https://github.r2v.ch/codewars?user=JoroJanah&stroke=%23BB432C)
 
 <br>
